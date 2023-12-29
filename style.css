@@ -151,6 +151,10 @@ a {
   .menu.desktop {
     display: none;
   }
+
+  .hero {
+     overflow-x: hidden;
+  }
   
   .sidebar {
     position: absolute;
